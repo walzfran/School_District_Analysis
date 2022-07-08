@@ -96,7 +96,7 @@ Module 4 School District Analysis
 #### Scores by school size
 ##### Because we did not remove the students from the 9th grade and only the scores, the school size remained the same which did not pull Thomas High School out of the original school size it was in. Below are the images from both data sets, the first being the data that has the skewed 9th grader results and the second is cleaned. They are identical images as there was not much of a change that would be noticed with the formatting we did. 
 
-![School_Size_PY[(https://github.com/walzfran/School_District_Analysis/blob/main/Resources/School_Size_ScoolPY.png)
+![School_Size_PY](https://github.com/walzfran/School_District_Analysis/blob/main/Resources/School_Size_ScoolPY.png)
 
 ![School_Size_Challenge](https://github.com/walzfran/School_District_Analysis/blob/main/Resources/School_Size_Challenge.png)
 
